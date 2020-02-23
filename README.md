@@ -13,3 +13,10 @@ this is code for global email add
 
 git config --global user.email "you@example.com"
 git congig --global user.name "your name"
+
+[srch er moddhe develop likhle option asbe, thn branch khulte hobe.]
+to change branch
+git checkout newbranch
+
+git diye add korte chaile 
+git checkout -b my-awosome-button
