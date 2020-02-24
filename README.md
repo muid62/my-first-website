@@ -20,3 +20,6 @@ to change branch
 
 git diye add korte chaile 
   git checkout -b my-awosome-button
+<h1> github diye free hosting er jonno</h1>
+ gh-pages name ekta branch khukte hobe.
+ tarpor settings theke nicher dike ja ache seta 
